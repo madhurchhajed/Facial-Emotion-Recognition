@@ -8,4 +8,4 @@ Libraries required:
 3. Opencv-python Version : 4.4.0.44 
 4. Tensorflow Version : 2.3.1
 5. Seaborn Version : 0.10.0
-6. Easygui Version : 0..98.1
+6. Easygui Version : 0.98.1
