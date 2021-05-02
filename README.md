@@ -9,3 +9,6 @@ Libraries required:
 4. Tensorflow Version : 2.3.1
 5. Seaborn Version : 0.10.0
 6. Easygui Version : 0.98.1
+
+Read more about my project from here: 
+https://medium.com/analytics-vidhya/feedback-system-using-facial-emotion-recognition-e4554157a060
